@@ -23,3 +23,5 @@ Monitored outputs for each clock cycle.
 Verified output correctness by comparing with manually calculated values or expected filter behavior.
 
 The simulation was run using Vivado’s Behavioral Simulation tool. The waveform viewer was used to verify the timing of input and output signals, confirm correct filter operation, and debug any issues.
+
+![Image](https://github.com/user-attachments/assets/d5df7fbd-61e0-42be-8810-26c83d1f4094)
